@@ -28,6 +28,19 @@
       <img  height="180m" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmanaia26&layout=compact&theme=dracula" />
       <img  height="180m" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizmanaia26&theme=dracula" />
       <img  height= "180m" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizmanaia26&theme=dracula" /> 
-      
    </a>
 </div>
+
+### 👩🏼‍💻 Tech Stack:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bia-Js" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Bia-HTML" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Bia-CSS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Bia-Python" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Bia-C" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="Bia-C++"  height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> 
+  <img align="center" alt="Bia-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Bia-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+</div>
+  
+
