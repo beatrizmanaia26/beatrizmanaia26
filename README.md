@@ -11,3 +11,9 @@
 - Low level: C++, MongoDB, NodeJS.
 - 💕 I love lerning new things and I'm constantly improving my programming skills.
 - Pronouns: She/Her
+### 🌐 Socials:
+<div>
+   <a href="https://linkedin.com/in/beatrizmanaia/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://gitlab.com/beatrizmanaia26" target="_blank"><img src="https://img.shields.io/badge/GitLab-FE7A16?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+   <a href="mailto:beatrizlberto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
