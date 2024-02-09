@@ -9,7 +9,7 @@
 - 👩🏼‍💻 I'm looking for an intership.
 - 💻 Computer Science Student at FEI (second period).
 - Medium level: HTML, CSS, JavaScript, Python, C.
-- Low level: C++, MongoDB, NodeJS.
+- Low level: C++, MongoDB, NodeJS, PHP, MySQL.
 - 💕 I love lerning new things and I'm constantly improving my programming skills.
 - Pronouns: She/Her
 
