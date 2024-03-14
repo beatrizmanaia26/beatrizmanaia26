@@ -8,8 +8,8 @@
 - 🔭 I'm currently working on a bank project in C.
 - 👩🏼‍💻 I'm looking for an intership.
 - 💻 Computer Science Student at FEI (second period).
-- Medium level: HTML, CSS, JavaScript, Python, C.
-- Low level: C++, MongoDB, NodeJS, PHP, MySQL.
+- Medium level: HTML, CSS, JavaScript, Python, C, PHP.
+- Low level: C++, MongoDB, NodeJS, MySQL, Java.
 - 💕 I love lerning new things and I'm constantly improving my programming skills.
 - Pronouns: She/Her
 
