@@ -5,11 +5,11 @@
 </div>
 
 ### 💭 About me:
-- 🔭 I'm currently working on a bank project in C.
+- 🔭 I'm currently working on a project in Java.
 - 👩🏼‍💻 I'm looking for an intership.
-- 💻 Computer Science Student at FEI (second period).
+- 💻 Computer Science Student at FEI (thrid period).
 - Medium level: HTML, CSS, JavaScript, Python, C, PHP.
-- Low level: C++, MongoDB, NodeJS, MySQL, Java.
+- Low level: C++, MongoDB, PostgreSql, NodeJS, MySQL, Java.
 - 💕 I love lerning new things and I'm constantly improving my programming skills.
 - Pronouns: She/Her
 
