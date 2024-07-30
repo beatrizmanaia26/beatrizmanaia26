@@ -5,9 +5,9 @@
 </div>
 
 ### 💭 About me:
-- 🔭 I'm currently working on a project in Java.
+- 🔭 I'm currently working on a portal project in JrFEI.
 - 👩🏼‍💻 I'm looking for an intership.
-- 💻 Computer Science Student at FEI (thrid period).
+- 💻 Computer Science Student at FEI (fourth period).
 - Medium level: HTML, CSS, JavaScript, Python, C, PHP, Java
 - Low level: C++, MongoDB, PostgreSql, NodeJS, MySQL.
 - 💕 I love lerning new things and I'm constantly improving my programming skills.
