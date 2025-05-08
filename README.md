@@ -5,11 +5,10 @@
 </div>
 
 ### 💭 About me:
-- 🔭 I'm currently working on a portal project in JrFEI.
-- 👩🏼‍💻 I'm looking for an intership.
+- 👩🏼‍💻 I'm currently working on IBM Consulting
 - 💻 Computer Science Student at FEI (fourth period).
-- Medium level: HTML, CSS, JavaScript, Python, C, PHP, Java
-- Low level: C++, MongoDB, PostgreSql, NodeJS, MySQL, Assembly
+- Medium level: Java, HTML, CSS, JavaScript, Python, C, PHP, SQL.
+- Low level: Kotlin, Angular, C++, MongoDB, PostgreSql, NodeJS, MySQL, Assembly
 - 💕 I love lerning new things and I'm constantly improving my programming skills.
 - Pronouns: She/Her
 
