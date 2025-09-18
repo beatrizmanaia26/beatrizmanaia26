@@ -6,9 +6,9 @@
 
 ### 💭 About me:
 - 👩🏼‍💻 I'm currently working on IBM Consulting
-- 💻 Computer Science Student at FEI (fourth period).
+- 💻 Computer Science Student at FEI.
 - Medium level: Java, HTML, CSS, JavaScript, Python, C, PHP, SQL.
-- Low level: Kotlin, Angular, C++, MongoDB, PostgreSql, NodeJS, MySQL, Assembly
+- Low level: Kotlin, Angular, C++, MongoDB, PostgreSql, NodeJS, MySQL, Assembly, UML, Groovy, Grails
 - 💕 I love lerning new things and I'm constantly improving my programming skills.
 - Pronouns: She/Her
 
